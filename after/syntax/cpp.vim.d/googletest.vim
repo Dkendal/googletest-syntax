@@ -9,4 +9,3 @@
 "                itself.
 
 runtime! syntax/googletest.vim
-
